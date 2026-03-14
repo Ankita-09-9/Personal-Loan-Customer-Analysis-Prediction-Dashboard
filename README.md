@@ -7,9 +7,9 @@ This project presents an interactive dashboard created using Microsoft Excel to 
 The goal of this project is to transform raw banking data into meaningful visual insights that can help financial institutions understand customer profiles and improve loan approval strategies.
 
 ⚙️ Tools Used:-
-Microsoft Excel
-Pivot Tables
-Data Visualization
+Microsoft Excel, 
+Pivot Tables, 
+Data Visualization, 
 Dashboard Design
 
 Key Metrics:-
@@ -27,7 +27,7 @@ Average Credit Card Spending: ₹4.3K
 Average Income: ₹108K
 
 
-Dashboard Insights
+Dashboard Insights:-
 
 The dashboard provides the following insights:
 
@@ -43,6 +43,7 @@ Loan acceptance based on family size
 
 Comparison of mortgage, credit card, and securities account holders with loan acceptance
 
+
 Filters Available:-
 
 The dashboard includes interactive filters for:
@@ -53,7 +54,8 @@ ZIP Code
 
 These filters allow dynamic exploration of customer segments and loan acceptance patterns.
 
-💡 Business Value
+
+💡 Business Value:-
 This analysis helps banks and financial institutions:
 
 Identify customer segments more likely to accept personal loans
@@ -61,6 +63,7 @@ Identify customer segments more likely to accept personal loans
 Understand financial characteristics of potential borrowers
 
 Improve targeted marketing strategies for loan products
+
 
 📌Conclusion
 
