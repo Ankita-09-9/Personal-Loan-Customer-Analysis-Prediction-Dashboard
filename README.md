@@ -7,13 +7,9 @@ This project presents an interactive dashboard created using Microsoft Excel to 
 The goal of this project is to transform raw banking data into meaningful visual insights that can help financial institutions understand customer profiles and improve loan approval strategies.
 
 ⚙️ Tools Used:-
-
 Microsoft Excel
-
 Pivot Tables
-
 Data Visualization
-
 Dashboard Design
 
 Key Metrics:-
