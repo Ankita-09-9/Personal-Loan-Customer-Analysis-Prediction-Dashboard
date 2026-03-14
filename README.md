@@ -1,6 +1,7 @@
 📈 Personal Loan Customer Analysis & Prediction Dashboard
 
 📊 Project Overview:-
+
 This project presents an interactive dashboard created using Microsoft Excel to analyze customer behavior related to personal loan acceptance. The dashboard provides insights into how factors such as income, education level, credit card usage, and family size influence loan approval decisions.
 The goal of this project is to transform raw banking data into meaningful visual insights that can help financial institutions understand customer profiles and improve loan approval strategies.
 
