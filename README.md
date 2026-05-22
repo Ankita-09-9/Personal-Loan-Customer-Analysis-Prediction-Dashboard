@@ -32,6 +32,10 @@ Average Income: ₹108K
 - Professional education category had the highest acceptance rate.
 - Credit card usage impacts loan approval trends.
 
+## Dashboard Preview
+
+![Dashboard](screenshots/dashboard.png)
+
 ## Files Included
 - Excel Dashboard File containing:
   - Interactive Dashboard
