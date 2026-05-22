@@ -10,14 +10,6 @@ This Excel dashboard analyzes customer loan acceptance behavior based on factors
 - Slicers
 - Conditional Formatting
 
-## Key Metrics:-
-Total Customers: 5000
-Customers Loan Accepted: 480
-Loan Acceptance Rate: 9.6%
-Loan Rejected: 4520
-Average Credit Card Spending: ₹4.3K
-Average Income: ₹108K
-
 ## Dashboard Features
 - Loan Acceptance Rate
 - Age Group Analysis
@@ -27,19 +19,25 @@ Average Income: ₹108K
 - Credit Card Usage Analysis
 - Family Members Wise Loan Acceptance
 
+## Key Metrics:-
+Total Customers: 5000
+Customers Loan Accepted: 480
+Loan Acceptance Rate: 9.6%
+Loan Rejected: 4520
+Average Credit Card Spending: ₹4.3K
+Average Income: ₹108K
+
 ## Key Insights
 - Customers with higher income showed higher loan acceptance.
 - Professional education category had the highest acceptance rate.
 - Credit card usage impacts loan approval trends.
 
-## Dashboard Preview
-
-![Dashboard](screenshots/dashboard.png)
-
 ## Files Included
-- Dashboard.xlsx
-- dataset.csv
-- README.md
+- Excel Dashboard File containing:
+  - Interactive Dashboard
+  - Customer Loan Dataset
+- Dashboard Screenshot
+- Project Documentation (README.md)
 
 ## Author
 Ankita Panchal
