@@ -20,12 +20,12 @@ This Excel dashboard analyzes customer loan acceptance behavior based on factors
 - Family Members Wise Loan Acceptance
 
 ## Key Metrics:-
-Total Customers: 5000
-Customers Loan Accepted: 480
-Loan Acceptance Rate: 9.6%
-Loan Rejected: 4520
-Average Credit Card Spending: ₹4.3K
-Average Income: ₹108K
+- Total Customers: 5000
+- Customers Loan Accepted: 480
+- Loan Acceptance Rate: 9.6%
+- Loan Rejected: 4520
+- Average Credit Card Spending: ₹4.3K
+- Average Income: ₹108K
 
 ## Key Insights
 - Customers with higher income showed higher loan acceptance.
