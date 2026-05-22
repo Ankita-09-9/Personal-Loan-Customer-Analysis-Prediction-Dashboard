@@ -34,7 +34,7 @@ Average Income: ₹108K
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard Screenshot.png)
+![Dashboard Preview](Dashboard%20Screenshot.png)
 
 ## Files Included
 - Excel Dashboard File containing:
